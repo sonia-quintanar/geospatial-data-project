@@ -1,0 +1,5 @@
+,name,category_code,offices
+0,99designs,design,"[{'country_code': 'USA'}, {'country_code': 'AUS'}, {'country_code': 'DEU'}]"
+1,Graticle,design,[{'country_code': 'USA'}]
+2,Kickstarter,design,[{'country_code': 'USA'}]
+3,Moonfruit,design,[{'country_code': 'GBR'}]
